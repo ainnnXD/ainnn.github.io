@@ -1,0 +1,130 @@
+body{
+    background-color:#EFF4FD;
+
+}
+/*navbar*/
+.navbar-brand{
+    font-family: 'Bakbak One', cursive;
+    font-size: 33px;
+    padding-right:300px;
+    
+
+}
+.navbar-nav{
+    font-family: 'Bakbak One', cursive;
+    margin:auto;
+    font-size: 20px;
+    padding-top:10px;
+    padding-right:30px;
+
+}
+.navbar-nav span{
+    color:#F69C00;
+
+}
+.nav-link:hover{
+    color:#F69C00;
+}
+/*end*/
+/*hero section*/
+#hero{
+    min-height: 560px;
+}
+.row h1{
+    color:#F69C00;
+    padding-top:100px;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size:30px;
+
+
+}
+.row h2{
+    color:black;
+    font-weight:700;
+    font-size:28px;
+}
+.row p{
+    font-weight: 500;
+    padding :5 3px;
+    padding-bottom:50px;
+
+}
+
+/*text*/
+.btn-custom{
+    background-color:#F69C00;
+    color:#fff;
+    text-align:center;
+    min-width:160px;
+    height:40px;
+    font-weight: 700;
+    border-radius: 8px;
+    
+
+
+}
+.btn-custom span{
+    color:#Fff;
+}
+.btn-custom:hover{
+    box-shadow: 0 0 5px rgba(255,255, 255, alpha)
+}
+/*medsos*/
+.medsos-icon{
+   float:left;
+
+
+}
+.medsos-icon img{
+    padding-right:5px;
+  
+}
+.cv {
+    color:black;
+    font-weight: 700;
+    cursor:pointer;
+    padding-left:10px;
+}
+.cv:hover{
+    color:#F69C00;
+}
+/*foto*/
+#hero img{
+    float:right;
+    padding-top: 00px;
+}
+/*end hero*/
+#about{
+    background-color: #EAF0FC;
+    min-height:300px;
+}
+#about h1{
+    float:center;
+    color:#F69C00;
+    margin-top:-70px;
+    font-size:30px;
+    font-weight: 400;
+}
+#about h2{
+    font-size:20px;
+    font-weight: 700;
+    padding-top:30px;
+
+}
+#about p{
+    font-size:18px;
+    padding-top:10px;
+}
+#about p span{
+    color:#F69C00;
+    font-weight: 700;
+    padding-bottom:-100px;
+}
+.more{
+    color:#000;
+    
+}
+.more:hover{
+    color:#F69C00;
+}
